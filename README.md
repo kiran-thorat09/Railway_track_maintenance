@@ -60,12 +60,18 @@ A simple Streamlit frontend allows users to:
 ##  File Structure
 
 railway-predictor/
-├── app.py # Streamlit frontend
-├── railway_track_model.pkl # Trained ML model
-├── train_model # train_model
-├── requirements.txt # Required packages
-├── train_data_clean.xls # Cleaned data used for training
-└── README.md # Project documentation
+
+├── app.py #Streamlit frontend
+
+├── railway_track_model.pkl #Trained ML model
+
+├── train_model #train_model
+
+├── requirements.txt #Required packages
+
+├── train_data_clean.xls #Cleaned data used for training
+
+└── README.md #Project documentation
 
 
 ###  Install Req.txt 
